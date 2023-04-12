@@ -1,4 +1,4 @@
-# i3-auto-layout
+# i3-auto-layout (Ryan's fork)
 Automatic, optimal tiling for i3wm inspired by the deprecated `i3-alternating-layouts` and bspwm. An appropriate split is set for each window based on its geometry. 
 
 Improvements over `i3-alternating-layouts`:
@@ -15,7 +15,7 @@ Improvements over `i3-alternating-layouts`:
 
 # Installation
 
-Grab a binary from [releases](https://github.com/chmln/i3-auto-layout/releases) OR `cargo install --git https://github.com/chmln/i3-auto-layout`
+`cargo install --git https://github.com/rmullin7286/i3-auto-layout`
 
 Then somewhere in your i3 config
 
